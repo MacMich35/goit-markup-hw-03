@@ -1,0 +1,264 @@
+.logo {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  /* identical to box height */
+  letter-spacing: 0.03em;
+  color: black;
+  text-decoration: none;
+}
+span {
+  color: #2196f3;
+}
+.logo2 {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  /* identical to box height */
+  letter-spacing: 0.03em;
+  color: #ffffff;
+  text-decoration: none;
+}
+.menu {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #212121;
+  text-decoration: none;
+}
+.contact {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  color: #757575;
+}
+.adres {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  color: #fff;
+}
+.adres2 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.6);
+}
+.background2 {
+  background-color: #2f303a;
+}
+.background1 {
+  background-color: #fff;
+}
+.background3 {
+  background-color: #2f303a;
+}
+.solutions {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
+  background: #2f303a;
+}
+.orderbutton {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.875;
+  display: flex;
+  letter-spacing: 0.06em;
+  color: #ffffff;
+  background-color: #2196f3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border: none;
+  border-radius: 4px;
+}
+.loremipsum {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #212121;
+}
+.description {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+.whatwedo {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+.background4 {
+  background-color: #f5f4fa;
+}
+.ourteam {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+li {
+  list-style-type: none;
+}
+.fullname {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.18;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+.role {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.18;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+.background5 {
+  width: 270px;
+  height: 368px;
+  left: 215px;
+  top: 1635px;
+  box-sizing: border-box;
+  background: #ffffff;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
+    0px 2px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 0px 0px 4px 4px;
+}
+.buttonfonts {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.625;
+  letter-spacing: 0.03em;
+  background: #f5f4fa;
+  border-radius: 4px;
+  color: #212121;
+  border: #f5f4fa;
+}
+button {
+  cursor: pointer;
+}
+.menu:hover {
+  color: #2196f3;
+}
+.menu:focus {
+  color: #2196f3;
+}
+.contact:hover {
+  color: #2196f3;
+}
+.contact:focus {
+  color: #2196f3;
+}
+.adres:hover {
+  color: #2196f3;
+}
+.adres:focus {
+  color: #2196f3;
+}
+.adres2:hover {
+  color: #2196f3;
+}
+.adres2:focus {
+  color: #2196f3;
+}
+.buttonfonts:hover {
+  background: #2196f3;
+  color: #fff;
+}
+.buttonfonts:focus {
+  background: #2196f3;
+  color: #fff;
+}
+.offer {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+.options {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+.background6 {
+  width: 370px;
+  height: 404px;
+  left: 215px;
+  top: 262px;
+  box-sizing: border-box;
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+}
+.container {
+  width: 1200px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+.logo-direction {
+  display: flex;
+  flex-direction: row;
+}
+.header-layout {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: solid 1px;
+  border-color: #ececec;
+}
+.menu.agencja {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
